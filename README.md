@@ -1,7 +1,12 @@
 # MadeInIndiaTrends
 Capstone Project
 
-Project Members:
+**Project Members:**
+
 Sameer Mittal
+
 Akash
+
 Mehakleen
+
+Rupesh
